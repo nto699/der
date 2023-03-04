@@ -1,5 +1,3 @@
-sleep 999999999
-screen
 sudo su
 wget https://github.com/deroproject/derohe/releases/download/Release116/dero_linux_amd64.tar.gz
 tar xvf dero_linux_amd64.tar.gz
